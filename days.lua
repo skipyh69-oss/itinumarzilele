@@ -1,4 +1,4 @@
 -- Acest fișier este actualizat automat zilnic.
 -- Data ultimului update: 2026-06-09
-local daysSinceLastUpdate = 31
+local daysSinceLastUpdate = 32
 return daysSinceLastUpdate
